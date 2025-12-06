@@ -52,7 +52,7 @@ trading-strategy-api/
 1. **Clone the repository**
 
 ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Devansh-567/Invsto-Project
    cd trading-strategy-api
 ```
 
@@ -174,4 +174,3 @@ The test suite includes:
 - API endpoint tests
 - Moving average calculation tests
 - Strategy signal generation tests
--
